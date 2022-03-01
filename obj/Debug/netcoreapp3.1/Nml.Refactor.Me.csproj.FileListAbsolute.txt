@@ -1,0 +1,10 @@
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/bin/Debug/netcoreapp3.1/Nml.Refactor.Me.deps.json
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/bin/Debug/netcoreapp3.1/Nml.Refactor.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/bin/Debug/netcoreapp3.1/Nml.Refactor.Me.pdb
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.csproj.AssemblyReference.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.AssemblyInfoInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.AssemblyInfo.cs
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.csproj.CoreCompileInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/obj/Debug/netcoreapp3.1/Nml.Refactor.Me.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJkQLngXl/6261z8TS+atkT3x1UccMtVxiq+hTNnEI8c7BKaUr8bP9wSaG1YadoCFToD3iRmEvz8gugKFuxUMA==",
+  "success": true,
+  "projectFilePath": "/Users/amosmoholola/Downloads/2022-03-01- Nml.Refactor.Me/Nml.Refactor.Me.csproj",
+  "expectedPackageFiles": [
+    "/Users/amosmoholola/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/amosmoholola/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/amosmoholola/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
